@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bhoboghurey/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Bhoboghurey](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bhoboghurey/) |
+| **Get License** | [Request Licensing for Bhoboghurey](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bhoboghurey/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `105c289f0c59082019a35d434c1a2cd2c67e65042859a2f2dfaec6edd11af6fe` |
 | **Timestamp** | May 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

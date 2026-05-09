@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bhoboghurey
+
+This log tracks the cryptographic history and versioning for the song **Bhoboghurey** (bhoboghurey).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T04:45:13.319802 | `v1` | `105c289f0c59082019a35d434c1a2cd2c67e65042859a2f2dfaec6edd11af6fe` | `ed27fdae5b102ed6111b91dc2b415ba902b6f6ce2018d13b492bafe5f24961e0` | `2026-05-10_bhoboghurey-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
