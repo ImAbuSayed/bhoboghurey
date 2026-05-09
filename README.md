@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bhoboghurey/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Bhoboghurey](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bhoboghurey/) |
+| **Get License** | [Obtain a Music License for Bhoboghurey](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bhoboghurey/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> রাতের এই নিস্তব্ধতায় বাড়ছে শুধু নেশা
+> তোমার উষ্ণ ছোঁয়ার আশায় কাটে আমার নিশা
+> অন্ধকারে খুঁজছি তোমায়, জ্বলছে বুকে আগুন
+> কাছে এলে ফুটবে যেন আমার মনে ফাগুন
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
